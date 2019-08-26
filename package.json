@@ -10,7 +10,12 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-decoupled-document": "^12.3.1",
+    "@ckeditor/ckeditor5-vue": "^1.0.0-beta.2",
+    "ajv": "^6.10.2",
     "element-ui": "^2.11.1",
+    "imagemin": "^5.0.0",
+    "mavon-editor": "^2.7.5",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
